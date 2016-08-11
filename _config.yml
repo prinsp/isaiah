@@ -1,13 +1,13 @@
 # Site settings
-name: Isaiah Vanderford
-description: "leaving the past"
+name: Paul Prinsloo
+description: "Born curious and in trouble"
 url: ""
 
 
 # Delete the lines you don't need
 # about 5 elements are recomended
-blog_url: "http://dronerecovery.org"
-email: isaiah_vanderford@live.com 
+blog_url: "http://opendistanceteachingandlearning.wordpress.com"
+email: pprinsloo59@gmail.com
 
 avatar: yes
 #avatar_img_path: "imgs/avatar.jpg""
